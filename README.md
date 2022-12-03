@@ -17,8 +17,6 @@ Skills: C/ C++/ Java/ C#
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MirAdisAli&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MirAdisAli)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MirAdisAli)  
 
 ![Profile views](https://gpvc.arturio.dev/MirAdisAli)  
