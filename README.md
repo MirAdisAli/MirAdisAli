@@ -1,4 +1,5 @@
-# Hello there 👋, I'm Mir Adis Ali
+# Hello there 👋
+# I'm Mir Adis Ali
 
 Skills: C/ C++/ Java/ C#
 
