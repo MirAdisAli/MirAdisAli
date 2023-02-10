@@ -1,7 +1,7 @@
 # Hello there 👋
 # I'm Mir Adis Ali
 
-Skills: C/ C++/ Java/ C#/ HTML/ CSS
+Skills: C++/ Java/ C#/ HTML/ CSS
 
 I’m currently working on Web Development Project 
 
