@@ -6,7 +6,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirAdisAli&layout=compact&theme=vision-friendly-darkk)](https://github.com/MirAdisAli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirAdisAli&layout=compact&theme=vision-friendly-dark)](https://github.com/MirAdisAli/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
