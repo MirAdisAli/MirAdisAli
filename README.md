@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miradisali&label=Profile%20views&color=0e75b6&style=flat" alt="miradisali" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirAdisAli&layout=compact&theme=vision-friendly-dark)](https://github.com/MirAdisAli/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MirAdisAli)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miradisali&" alt="miradisali" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
