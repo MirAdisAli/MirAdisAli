@@ -1,5 +1,4 @@
-# Hello there 👋
-# I'm Mir Adis Ali
+# Hello 👋, I'm Mir Adis Ali
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miradisali&label=Profile%20views&color=0e75b6&style=flat" alt="miradisali" /> </p>
