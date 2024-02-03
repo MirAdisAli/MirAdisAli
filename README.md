@@ -6,6 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirAdisAli&layout=compact&theme=vision-friendly-dark)](https://github.com/MirAdisAli/github-readme-stats)
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MirAdisAli)
 
 
 <h3 align="left">Languages and Tools:</h3>
